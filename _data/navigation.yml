@@ -5,14 +5,22 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "About me"
+  - title: "ℹ About me"
     url: /aboutme/
 
-  - title: "Publicações"
-    url: /publicacoes/    
+  - title: ":chart_with_upwards_trend: Research"
+    sublinks:
+      - title: ":br: Publicações"
+        url: /publicacoes_pt/
+      - title: "Preprints"
+        url: /preprints/
 
-  - title: "Notas/Fichamentos"
-    url: /notas-fichamentos/    
+  - title: "📖 Notas/Fichamentos"
+    sublinks:
+      - title: "📚 Fichamentos"
+        url: /fichamentos/
+      - title: "📝 Notas de aula"
+        url: /notas/    
     
   - title: "CV"
     url: /cv/
