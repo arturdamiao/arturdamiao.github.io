@@ -11,16 +11,16 @@ main:
   - title: ":chart_with_upwards_trend: Research"
     sublinks:
       - title: ":br: Publicações"
-        url: /publicacoes_pt/
+        url: /publicacoes_pt
       - title: "Preprints"
-        url: /preprints/
+        url: /preprints
 
   - title: "📖 Notas/Fichamentos"
     sublinks:
       - title: "📚 Fichamentos"
-        url: /fichamentos/
+        url: /fichamentos
       - title: "📝 Notas de aula"
-        url: /notas/    
+        url: /notas    
     
   - title: "CV"
-    url: /cv/
+    url: /cv
