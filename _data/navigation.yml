@@ -6,7 +6,7 @@
 
 main:
   - title: "ℹ About me"
-    url: /aboutme/
+    url: /aboutme
 
   - title: ":chart_with_upwards_trend: Research"
     sublinks:
