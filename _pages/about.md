@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /aboutme
 title: "Sobre mim"
 author_profile: true
 redirect_from: 
