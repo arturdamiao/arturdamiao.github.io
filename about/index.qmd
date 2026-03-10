@@ -54,7 +54,7 @@ My current projects utilize criminal data and socioeconomic variables to explore
 
 **Social scientist, curious about all intersections of data and society.**
 
-I enjoy using [R](https://www.r-project.org/about.html) to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life. I'm certified as an [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/canelon+silvia/) and am passionate about R education and data literacy as ways to build power in communities. Keep up with my R tinkering in my [blog](/blog) and presentations in [talks](/talk).
+I enjoy using [R](https://www.r-project.org/about.html) to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life.
 
 I worked as a Research Assistant at the [Center for Metropolitan Studies (CEM)](https://centrodametropole.fflch.usp.br/en), where I focused on municipal councils and developed web scraping methods to collect and analyze data. I also served as an Assistant Instructor for several undergraduate courses in the Sociology, Antropology and Political Science departments, helping students navigate theory and methodology. 
 
