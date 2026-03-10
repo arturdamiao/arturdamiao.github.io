@@ -1,0 +1,29 @@
+---
+title: "Artur Damião, MSc "
+subtitle: "Sociologist | Quantitative Social Scientist"
+image: images/lab/profile.jpg
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/
+    - icon: github
+      href: https://github.com/arturdamiao
+    - text: '<i class="ai ai-lattes"></i> '
+      href: http://lattes.cnpq.br/6994512988749281
+    - text: '<i class="ai ai-orcid"></i> '
+      href: https://orcid.org/0000-0002-8628-1653
+    - text: '<i class="ai ai-google-scholar"></i>'
+      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR
+    - text: '<i class="ai ai-osf"></i>'
+      href: https://osf.io/g9dvj/
+    - text: '<i class="ai ai-zotero"></i>'
+      href: https://www.zotero.org/arturdamiao
+    - icon: envelope
+      href: mailto:arturcardoso@usp.br
+---
+
+### Welcome to my personal website!
+
+I am a social scientist, quantitative researcher, [{{< fa brands r-project >}}](https://www.r-project.org/about.html) enthusiast, and a Master’s student in [Sociology at the University of São Paulo (USP)](https://ppgsociologia.fflch.usp.br/). I study social inequality and violence with a focus on applying computational statistics and spatial analysis to understand criminal data and urban dynamics.

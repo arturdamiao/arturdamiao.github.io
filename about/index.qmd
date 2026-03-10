@@ -1,0 +1,76 @@
+---
+title: "Artur Damião"
+subtitle: Data Scientist & Sociologist
+image: sidebar/profile.jpg
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/arturdamiao
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-8628-1653
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR
+    - text: "{{< fa envelope >}}"
+      aria-label: Mail
+      href: arturcardoso@usp.br
+
+  
+format: 
+  html: 
+    page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources:
+  - ../assets/about.css
+---
+
+::: {#hero-heading}
+<div class="h1">Hey, I'm happy you're here</div>
+
+Thanks for stopping by!
+
+I’m a sociologist currently pursuing my Master’s degree at the [University of São Paulo (USP)](https://www5.usp.br/#english), one of Latin America’s leading research institutions. My research interests include the application of social and spatial data science within the fields of criminal dynamics, policing, and public safety.
+
+My current projects utilize criminal data and socioeconomic variables to explore the effects of over- and under-policing within the city of São Paulo. By analyzing these spatial disparities, I aim to understand how institutional presence and urban dynamics shape public safety. Learn more about my research interests in [publications](/publications).
+
+
+:::
+
+## About me
+
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+**Social scientist, curious about all intersections of data and society.**
+
+I enjoy using [R](https://www.r-project.org/about.html) to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life. I'm certified as an [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/canelon+silvia/) and am passionate about R education and data literacy as ways to build power in communities. Keep up with my R tinkering in my [blog](/blog) and presentations in [talks](/talk).
+
+I worked as a Research Assistant at the [Center for Metropolitan Studies (CEM)](https://centrodametropole.fflch.usp.br/en), where I focused on municipal councils and developed web scraping methods to collect and analyze data. I also served as an Assistant Instructor for several undergraduate courses in the Sociology, Antropology and Political Science departments, helping students navigate theory and methodology. 
+
+:::
+
+::: {.g-col-6 #about-me-2}
+
+
+In addition to my academic background, I have provided consultancy services for public policy firms, applying data-driven insights to address real-world social challenges. I am particularly interested in research that combines social and spatial data science with open data sources in ways that prioritize equity and public safety in urban communities.
+
+<ul class="fa-ul">
+   <li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.est.ufmg.br/portal/especializacao-monografias/">Certificate in Computational Statistics</a> ∙ University of Minas Gerais ∙ 2026</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Ms.C in Sociology ∙ University of São Paulo ∙ 2026</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Social Sciences ∙ University of São Paulo ∙ 2024</li>
+</ul>
+
+:::
+
+:::

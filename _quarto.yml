@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: "arturdamiao.com"
+  favicon: images/favicon/favicon.ico
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About me
+        href: about/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Publications
+        href: publications/index.qmd      
+    
+    tools:
+      - icon: github
+        href: github.com
+  page-footer:  
+    left: >-
+     &#169; 2026 Artur Damião &#8729; Made with [Quarto](https://quarto.org)
+
+
+    center: |
+            <a class="me-1" href="https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+            <a class="me-1" href="https://github.com/arturdamiao" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+            <a class="me-1" href="https://orcid.org/0000-0002-8628-1653" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+            <a class="me-1" href="https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR" title="Google Scholar" target="_blank" rel="noopener">{{< ai google-scholar >}}</a>
+
+
+    # right: 
+    #   - text: "Accessibility"
+    #     aria-label: "Accessibility Commitment"
+    #     href: accessibility.qmd
+    #   - text: "Contact"
+    #     aria-label: "Contact Form"
+    #     href: "contact.qmd"
+    #   - text: "License"
+    #     aria-label: "License Details"
+    #     href: license.qmd
+    #   - icon: rss
+    #     href: blog/index.xml
+
+format:
+  html:
+    theme: [cosmo, css/theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+

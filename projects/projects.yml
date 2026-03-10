@@ -1,0 +1,24 @@
+- title: Crime Data Analysis using R
+  path: https://arturdamiao.github.io/2026-02-summer-intro-crime-analysis-R/
+  image: images/mapa-featured.png
+  description: >
+    A Summer Course at University of São Paulo focused on contextualizing modern views on crime and policing, while introducing students to the essential tools for data analysis.
+  categories: [R, Exploratory Data Analysis]
+  date: 2026-02-02
+
+- title: Introduction to Programming for the Humanities
+  path: https://youtube.com/playlist?list=PLInYN7O8R1DRcWN5pRvZfrG65RgtP1OB1&si=1KiUCqtfiggwRb0W
+  # Photo by Columbia University: https://datascience.columbia.edu/research/groups/computational-social-science/
+  image: images/computacional.jpg
+  description: >
+    A Winter Course at FFLCH/USP designed to introduce R programming to a general audience, with a special focus on the Humanities. It also covers the basics of statistics. 
+  categories: [R, Basic Statistics]
+  date: 2025-09-01
+
+- title: Academic Practices of Reading and Writing
+  path: /20260309-plea-fflch-usp/
+  image: images/plea-image.png
+  description: >
+    This course is all about giving Social Sciences students a step-by-step guide to reading and writing for the humanities. It's focused on undergraduate students. 
+  categories: [Teaching, Social Sciences, Reading]
+  date: 2025-03-01

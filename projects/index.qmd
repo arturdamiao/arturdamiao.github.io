@@ -1,0 +1,9 @@
+---
+title: Projects
+description: |
+  This porfolio includes works, software, and tools I have contributed to or designed,<br>along with openly available educational material I have created. 
+listing:
+  contents: projects.yml
+  type: grid
+  max-description-length: 250
+---
