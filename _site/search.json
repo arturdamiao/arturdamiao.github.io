@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Crime Data Analysis using R\n\n\n\nR\n\nExploratory Data Analysis\n\n\n\nA Summer Course at University of São Paulo focused on contextualizing modern views on crime and policing, while introducing students to the essential tools for data analysis.\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming for the Humanities\n\n\n\nR\n\nBasic Statistics\n\n\n\nA Winter Course at FFLCH/USP designed to introduce R programming to a general audience, with a special focus on the Humanities. It also covers the basics of statistics.\n\n\n\nSep 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Practices of Reading and Writing\n\n\n\nTeaching\n\nSocial Sciences\n\nReading\n\n\n\nThis course is all about giving Social Sciences students a step-by-step guide to reading and writing for the humanities. It’s focused on undergraduate students.\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/third-post/index.html",
-    "href": "blog/third-post/index.html",
-    "title": "Third Blog Post",
-    "section": "",
-    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
-  },
-  {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Sou mineiro do interior de Minas Gerais, estudando em São Paulo desde 2018. Tenho bastante interesse em sociologia, estudos quantitativos e me arrisco explorando diversos softwares. Ah, e eu amo fazer mapas e os mais variados tipos de gráficos!\nAo longo da minha graduação em Ciências Sociais, tive bastante contato com estudos de violência e de educação. Em decorrência disso, tomei conhecimento de softwares para análise de dados como Python, R, SPSS e QGIS.\nDevido a esse contato e meu interesse, desenvolvi grande afinidade com a programação e estatística, com foco na manipulação e visualização de dados. A estatística também é uma área que me interessa bastante, sendo utilizada por grandes Sociólogos como Durkheim. Também fui monitor da disciplina MAE0116 - Noções de Estatística, a fim de auxiliar estudantes nessa matéria que pode ser bastante complicada no começo.  Agradecimento à Bea Milz por disponibilizar conteúdos on-line que ajudaram a criar este site."
-  },
-  {
-    "objectID": "blog/second-post/index.html",
-    "href": "blog/second-post/index.html",
-    "title": "Second Post",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Artur Damião, MSc",
-    "section": "",
-    "text": "Welcome to my personal website!\nI am a social scientist, quantitative researcher,  enthusiast, and a Master’s student in Sociology at the University of São Paulo (USP). I study social inequality and violence with a focus on applying computational statistics and spatial analysis to understand criminal data and urban dynamics."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Artur Damião",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Artur Damião",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Testando para ver o que aparece."
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Artur Damião",
-    "section": "",
-    "text": "Hey, I’m happy you’re here\n\nThanks for stopping by!\nI’m a sociologist currently pursuing my Master’s degree at the University of São Paulo (USP), one of Latin America’s leading research institutions. My research interests include the application of social and spatial data science within the fields of criminal dynamics, policing, and public safety.\nMy current projects utilize criminal data and socioeconomic variables to explore the effects of over- and under-policing within the city of São Paulo. By analyzing these spatial disparities, I aim to understand how institutional presence and urban dynamics shape public safety. Learn more about my research interests in publications."
-  },
-  {
-    "objectID": "about/index.html#about-me",
-    "href": "about/index.html#about-me",
-    "title": "Artur Damião",
-    "section": "About me",
-    "text": "About me\n\n\nSocial scientist, curious about all intersections of data and society.\nI enjoy using R to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life.\nI worked as a Research Assistant at the Center for Metropolitan Studies (CEM), where I focused on municipal councils and developed web scraping methods to collect and analyze data. I also served as an Assistant Instructor for several undergraduate courses in the Sociology, Antropology and Political Science departments, helping students navigate theory and methodology.\n\n\nIn addition to my academic background, I have provided consultancy services for public policy firms, applying data-driven insights to address real-world social challenges. I am particularly interested in research that combines social and spatial data science with open data sources in ways that prioritize equity and public safety in urban communities.\n\n\nCertificate in Computational Statistics ∙ University of Minas Gerais ∙ 2026\n\n\nMs.C in Sociology ∙ University of São Paulo ∙ 2026\n\n\nB.S. in Social Sciences ∙ University of São Paulo ∙ 2024"
-  },
-  {
-    "objectID": "publications/index.html#publications-in-portuguese-brazil",
-    "href": "publications/index.html#publications-in-portuguese-brazil",
-    "title": "Publications",
-    "section": "Publications in Portuguese (Brazil) ",
-    "text": "Publications in Portuguese (Brazil)"
-  },
-  {
-    "objectID": "publications/index.html#publications-in-portuguese-brazil-br-flag",
-    "href": "publications/index.html#publications-in-portuguese-brazil-br-flag",
-    "title": "Publications",
-    "section": "Publications in Portuguese (Brazil) ::br-flag::",
-    "text": "Publications in Portuguese (Brazil) ::br-flag::"
-  },
-  {
-    "objectID": "publications/index.html#publications-in-portuguese-brazil-brazil",
-    "href": "publications/index.html#publications-in-portuguese-brazil-brazil",
-    "title": "Publications",
-    "section": "Publications in Portuguese (Brazil) :brazil:",
-    "text": "Publications in Portuguese (Brazil) :brazil:"
-  },
-  {
     "objectID": "publications/index.html#publications-in-portuguese",
     "href": "publications/index.html#publications-in-portuguese",
     "title": "Publications",
@@ -126,13 +28,6 @@
     "text": "Comunicação institucional\nOs professores utilizam a Plataforma Moodle (USP e-Disciplinas) para emitir comunicados, disponibilizar os textos e fazer alterações no programa. Para acessar o Moodle, basta inserir as suas credenciais como número USP ou o e-mail USP e a senha que vocês utilizam. Na guia “Meus Ambientes”, vocês poderão localizar a disciplina, conforme a imagem abaixo:\n\n\n\nAcessar o Moodle\n\n\nAcessando o ambiente virtual da disciplina, vocês conseguirão ver as informações necessárias para o andamento do curso.\nA nossa comunicação se dará, principalmente, pelo envio de e-mails. Para isso, vocês precisam ter e usar o e-mail que termina com @usp.br, o qual vocês provavelmente já têm acesso. Por meio do e-mail, vocês terão acesso a uma série de ferramentas do chamado Google Workspace de maneira gratuita, como demonstrado abaixo:\n\n\n\nAplicativos e ferramentas do Google\n\n\nSe vocês acessarem o Drive, verão que no canto inferior esquerdo há uma indicação de armazenamento. Atentem-se pois o limite é de 20GB. É relativamente bastante. Eu sugiro que vocês não vinculem o Google Fotos, por exemplo, ao @usp.br de vocês porque pode ser que ocupe mais espaço do que o desejado. Eu já passei pela graduação e agora na pós-graduação tenho bastante espaço disponível:\n\n\n\nArmazenamento do Drive\n\n\nAlém disso, vamos utilizar um grupo de Whatsapp  para otimizar a nossa comunicação. Vocês terão o meu contato pessoal lá. Percebam que o Whatsapp  traz uma proximidade e celeridade maior na comunicação. Mas, é importante frisar que isso não quer dizer que todos nós teremos disponibilidade o tempo todo. Da minha parte, estou disponível todos os dias úteis entre 10h e 18h para vocês, onde os responderei dentro de um intervalo de 12h. Fiquem à vontade para me contatar e tirar dúvidas pontuais.\nPara a minha segurança e a de vocês, alinhado com uma certa conduta de boas práticas, temas mais sérios como abono de faltas, justificativas de atrasos, dificuldades gerais e afins, podem ser sim comunicados pelo Whatsapp. Entretanto, é altamente recomendável que vocês enviem, também, um e-mail formalizando a comunicação. Isso faz com que vocês mantenham o histórico das nossas interações, registrando-as. Especialmente sobre as faltas, recomendo fortemente que sejam comunidados tanto os monitores da disciplina quanto o professor responsável. É interessante esclarecer os motivos da falta, bem como cópias de atestado etc1.\n1 “Reportar” as faltas é mais comum quando você está no limite de ausências numa disciplina.\n\n\n\n\n\nImportante\n\n\n\nÉ importante que vocês estejam apropriados do Programa da Disciplina. Nele, vocês encontrarão todas as datas, temas e leituras para as aulas. O programa pode ser alterado ao longo do semestre, mas, caso isso aconteça, vocês serão devidamente comunicados pelo professor e sua equipe. Um conselho: antes de tirarem alguma dúvida comigo, algum professor ou outro colega, verifiquem o programa! Frequentemente, a sua dúvida já pode ter sido sanada em alguma parte do programa da disciplina. Entretanto, não hesitem em entrar em contato, principalmente comigo. Meu objetivo também é contribuir para uma boa experiência e fazer com que as coisas sejam mais nítidas e compreensíveis."
   },
   {
-    "objectID": "projects/20260309-plea-fflch-usp/index.html#footnotes",
-    "href": "projects/20260309-plea-fflch-usp/index.html#footnotes",
-    "title": "Academic Practices of Reading and Writing (PLEA)",
-    "section": "Notas de rodapé",
-    "text": "Notas de rodapé\n\n\n“Reportar” as faltas é mais comum quando você está no limite de ausências numa disciplina.↩︎"
-  },
-  {
     "objectID": "projects/20260309-plea-fflch-usp/index.html#envio-de-fichamentos",
     "href": "projects/20260309-plea-fflch-usp/index.html#envio-de-fichamentos",
     "title": "Academic Practices of Reading and Writing (PLEA)",
@@ -152,5 +47,54 @@
     "title": "Academic Practices of Reading and Writing (PLEA)",
     "section": "Envio de fichamentos",
     "text": "Envio de fichamentos\n==To be definied==.\n\nO prazo do envio dos fichamentos será o início da aula a qual corresponde a entrega do fichamento."
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Artur Damião",
+    "section": "",
+    "text": "Hey, I’m happy you’re here\n\nThanks for stopping by!\nI’m a sociologist currently pursuing my Master’s degree at the University of São Paulo (USP), one of Latin America’s leading research institutions. My research interests include the application of social and spatial data science within the fields of criminal dynamics, policing, and public safety.\nMy current projects utilize criminal data and socioeconomic variables to explore the effects of over- and under-policing within the city of São Paulo. By analyzing these spatial disparities, I aim to understand how institutional presence and urban dynamics shape public safety. Learn more about my research interests in publications."
+  },
+  {
+    "objectID": "about/index.html#about-me",
+    "href": "about/index.html#about-me",
+    "title": "Artur Damião",
+    "section": "About me",
+    "text": "About me\n\n\nSocial scientist, curious about all intersections of data and society.\nI enjoy using R to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life.\nI worked as a Research Assistant at the Center for Metropolitan Studies (CEM), where I focused on municipal councils and developed web scraping methods to collect and analyze data. I also served as an Assistant Instructor for several undergraduate courses in the Sociology, Antropology and Political Science departments, helping students navigate theory and methodology.\n\n\nIn addition to my academic background, I have provided consultancy services for public policy firms, applying data-driven insights to address real-world social challenges. I am particularly interested in research that combines social and spatial data science with open data sources in ways that prioritize equity and public safety in urban communities.\n\n\nCertificate in Computational Statistics ∙ University of Minas Gerais ∙ 2026\n\n\nMs.C in Sociology ∙ University of São Paulo ∙ 2026\n\n\nB.S. in Social Sciences ∙ University of São Paulo ∙ 2024"
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Artur Damião, MSc",
+    "section": "",
+    "text": "Welcome to my personal website!\nI am a social scientist, quantitative researcher,  enthusiast, and a Master’s student in Sociology at the University of São Paulo (USP). I study social inequality and violence with a focus on applying computational statistics and spatial analysis to understand criminal data and urban dynamics."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Crime Data Analysis using R\n\n\n\nR\n\nExploratory Data Analysis\n\n\n\nA Summer Course at University of São Paulo focused on contextualizing modern views on crime and policing, while introducing students to the essential tools for data analysis.\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming for the Humanities\n\n\n\nR\n\nBasic Statistics\n\n\n\nA Winter Course at FFLCH/USP designed to introduce R programming to a general audience, with a special focus on the Humanities. It also covers the basics of statistics.\n\n\n\nSep 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Practices of Reading and Writing\n\n\n\nTeaching\n\nSocial Sciences\n\nReading\n\n\n\nThis course is all about giving Social Sciences students a step-by-step guide to reading and writing for the humanities. It’s focused on undergraduate students.\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
