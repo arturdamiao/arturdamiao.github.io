@@ -1,5 +1,5 @@
 ---
-title: "Artur Damião, MSc "
+title: "Artur Damião, MA "
 subtitle: "Sociologist | Quantitative Social Scientist"
 image: images/lab/profile.jpg
 about: 
