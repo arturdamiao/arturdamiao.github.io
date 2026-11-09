@@ -18,7 +18,7 @@ website:
     
     tools:
       - icon: github
-        href: github.com
+        href: https://github.com/arturdamiao
   page-footer:  
     left: >-
      &#169; 2026 Artur Damião &#8729; Made with [Quarto](https://quarto.org)
@@ -28,7 +28,7 @@ website:
             <a class="me-1" href="https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
             <a class="me-1" href="https://github.com/arturdamiao" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
             <a class="me-1" href="https://orcid.org/0000-0002-8628-1653" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
-            <a class="me-1" href="https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR" title="Google Scholar" target="_blank" rel="noopener">{{< ai google-scholar >}}</a>
+            <a class="me-1" href="https://scholar.google.com/citations?user=LyAreZsAAAAJ" title="Google Scholar" target="_blank" rel="noopener">{{< ai google-scholar >}}</a>
 
 
     # right: 

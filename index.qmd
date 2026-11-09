@@ -15,7 +15,7 @@ about:
     - text: '<i class="ai ai-orcid"></i> '
       href: https://orcid.org/0000-0002-8628-1653
     - text: '<i class="ai ai-google-scholar"></i>'
-      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR
+      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ
     - text: '<i class="ai ai-osf"></i>'
       href: https://osf.io/g9dvj/
     - text: '<i class="ai ai-zotero"></i>'

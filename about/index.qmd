@@ -18,10 +18,10 @@ about:
       href: https://orcid.org/0000-0002-8628-1653
     - text: "{{< ai google-scholar >}}"
       aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR
+      href: https://scholar.google.com/citations?user=LyAreZsAAAAJ
     - text: "{{< fa envelope >}}"
       aria-label: Mail
-      href: arturcardoso@usp.br
+      href: mailto:arturcardoso@usp.br
 
   
 format: 
